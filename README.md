@@ -1,3 +1,3 @@
 # first
-It is my first git repository.
+It's my first git repository.
 
